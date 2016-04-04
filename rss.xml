@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Michael Marcusa - Social Researcher | Cultural Translator | Political Analyst]]></title>
-        <description><![CDATA[Michael Marcusa - Social Researcher | Cultural Translator | Political Analyst]]></description>
+        <title><![CDATA[Michael Marcusa - Social Researcher]]></title>
+        <description><![CDATA[Michael Marcusa - Social Researcher]]></description>
         <link>https://thegrid.ai/mgm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 13:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 13:32:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mgm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c31cf52-ec11-41ab-a514-4d8d53022b73.jpg">]]></description>
-            <link>https://thegrid.ai/mgm/c569ce0c-6e57-4297-9086-f088c72dc936/index.html</link>
-            <guid isPermaLink="false">c569ce0c-6e57-4297-9086-f088c72dc936</guid>
-            <pubDate>Mon, 04 Apr 2016 12:53:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><p>Your father's light saber. This is the weapon of a Jedi Knight. Not as clumsy or random as a blaster; an elegant weapon for a more civilized age. For over a thousand generations, the Jedi Knights were the guardians of peace and justice in the Old Republic. Before the dark times... before the Empire.</p></article>]]></description>
+            <description><![CDATA[<article><h1>About Me</h1><p>Your father's light saber. This is the weapon of a Jedi Knight. Not as clumsy or random as a blaster; an elegant weapon for a more civilized age. For over a thousand generations, the Jedi Knights were the guardians of peace and justice in the Old Republic. Before the dark times... before the Empire.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28712fdd-6a69-4085-a64d-b38d5dc1b03b.jpg"></article>]]></description>
             <link>https://thegrid.ai/mgm/about-me/index.html</link>
             <guid isPermaLink="false">0fddebd3-3413-46ed-b61f-564162161d17</guid>
-            <pubDate>Mon, 04 Apr 2016 13:29:35 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2016 13:32:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
